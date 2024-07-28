@@ -6,6 +6,12 @@
 #EXTM3U
 
 
+#EXTINF:-1, Deadpool hd
+http://novared.pro:80/play/HnBEhhgmTKk2UM_gFxSdVImaoHXjAKyX5riqIXxr0RSUnBiJqedp8hWp_gPkUuJl
+
+#EXTINF:-1, Deadpool fhd
+http://novared.pro:80/play/HnBEhhgmTKk2UM_gFxSdVImaoHXjAKyX5riqIXxr0RSUnBiJqedp8hWp_gPkUuJl
+
 #EXTINF:-1,DIstrito 2
 http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB31z2BZHYmPsOkw4ZABRZM9/ts
 
