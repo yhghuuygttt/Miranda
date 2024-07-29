@@ -6,11 +6,69 @@
 #EXTM3U
 
 
-#EXTINF:-1, Deadpool hd
-http://novared.pro:80/play/HnBEhhgmTKk2UM_gFxSdVImaoHXjAKyX5riqIXxr0RSUnBiJqedp8hWp_gPkUuJl
 
-#EXTINF:-1, Deadpool fhd
-http://novared.pro:80/play/HnBEhhgmTKk2UM_gFxSdVImaoHXjAKyX5riqIXxr0RSUnBiJqedp8hWp_gPkUuJl
+#EXTINF:-1, Simpson
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB0ylG88lCeGZITguVbspcvW/ts
+
+#EXTINF:-1,AYE
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB2RI3rtYllxDmjHE5cqbpCo/ts
+
+#EXTINF:-1,EC
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB2Gx2KPKL7qKsLcIfpWbFmG/ts
+
+#EXTINF:-1,Fox premium
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1vJAkqTtouopGgmqS7xv8Y/ts
+
+#EXTINF:-1,Discovery
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3jGScPglJtp8ZjSxm0jWIY/ts
+
+
+#EXTINF:-1,Discovery 
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB18ycBnqFZ_nxba4T1De7No/ts
+
+#EXTINF:-1, historia
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3FholPLfQsntVWK27DqZ5N/ts
+
+#EXTINF:-1,Nat gio
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB26AXb110d2yGfeh3L4t7ah/ts
+
+#EXTINF:-1,Animal planet
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3GDcPpfGqTogMMsW-SLOfh/ts
+
+#EXTINF:-1,más chi
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3U0ivy90EIQMF-hxtI50Tm/ts
+
+#EXTINF:-1,Únicable
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3G2KV8W-ugLTZPPtD3kwvf/ts
+
+
+#EXTINF:-1,comedy central
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB2ZMPrX2g7olz_qZvhduiKZ/ts
+
+#EXTINF:-1,DIstrito comedia
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB0AiChXiQZOVENBOvZKCqA9/ts
+
+#EXTINF:-1,comedy central 2
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB31z2BZHYmPsOkw4ZABRZM9/ts
+
+#EXTINF:-1,telenovelas
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB1Eudpyyp9Mt5Dfp0u6ZeQH/ts
+
+#EXTINF:-1,Nik
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB0wXjW8b4ehKFkGAOroUYvc/ts
+
+#EXTINF:-1,teen nick
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB16s2YMADb_DQSV9K5ssMMS/ts
+
+#EXTINF:-1,carrion netwo
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB29-GHZbRmacp-UlhZP_tT-/ts
+
+#EXTINF:-1,Disney
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB0D_3YAlJMjTTzEnKOZ_yv2/ts
+
+#EXTINF:-1,Sony
+http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB3fMQvTHrVVppgWF2DXXyQP/ts
+
 
 #EXTINF:-1,DIstrito 2
 http://novared.pro:80/play/5y4O9GmpNZvnVV88OESskkLqoAlkpEg5S-pHFOW5RB31z2BZHYmPsOkw4ZABRZM9/ts
