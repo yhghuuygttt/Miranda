@@ -5,6 +5,21 @@
 
 #EXTM3U
 
+#EXTINF:-1,Tv publica 
+http://tvgusplay.info:8080/CNEbrGXB6PAU/rcJtNjksZwrH/246373
+
+#EXTINF:-1,Telefe
+http://tvgusplay.info:8080/CNEbrGXB6PAU/rcJtNjksZwrH/264
+
+#EXTINF:-1,TNT sports
+http://tvgusplay.info:8080/CNEbrGXB6PAU/rcJtNjksZwrH/147
+
+#EXTINF:-1,DirecTV
+http://tvgusplay.info:8080/CNEbrGXB6PAU/rcJtNjksZwrH/146510
+
+
+
+
 
 #EXTINF:-1,tv publica
 http://ultra-premium-pro.xyz:8080/icardMegar/ypd5X3Xyus/61566
