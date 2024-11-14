@@ -5,9 +5,37 @@
 
 #EXTM3U
 
+#EXTINF:-1,tv publica 
+http://221155529577945325.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/945325.ts
 
-#EXTINF:-1,Dos hombres y medio
-http://fastream.xyz:8080/9368952tv/drtyy4wsar/701
+#EXTINF:-1,ECDF
+http://221155529577961202.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/961202.ts
+
+
+#EXTINF:-1,Tyc
+http://221155529577962049.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/962049.ts
+
+#EXTINF:-1,Tyc
+http://221155529577944083.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/944083.ts
+
+#EXTINF:-1,Directv 
+http://221155529577963630.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/963630.ts
+
+#EXTINF:-1,Espn
+http://221155529577956625.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/956625.ts
+
+
+
+
+#EXTINF:-1,ESpn 3
+http://221155529577946501.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/946501.ts
+
+#EXTINF:-1,Espn 2
+http://221155529577935121.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/935121.ts
+
+#EXTINF:-1,Gol caracol
+http://221155529577947009.ofxn1112.xyz:80/live/Ricardosuiza/1234321su/947009.ts
+
 
 
 
